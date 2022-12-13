@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    filter: brightness(1.1);
+  }
+  
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 8px;
+    opacity: 0.8;
+  }
+  

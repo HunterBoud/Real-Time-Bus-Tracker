@@ -1,0 +1,7 @@
+Bus tracker that will auto update the bus position every 15sec on its route from MIT campus in Cambridge to the Harvard campus, also in Cambridge. 
+
+To start, simply press the "Show stops between MIT and Harvard", the marker will auto-update every 15seconds with the new position of the bus.
+
+Current changes that have been made include: Increased map brightness, changed font size on start button and decreased opacity on button box.
+
+Future changes could include updated bus marker, map style changes and rearranged start button.
